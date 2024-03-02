@@ -1,4 +1,9 @@
-### Hi there 👋
+### Assembling the world with models
+
+Hey,
+I'm Ruben, an ecological modeller with a diverse interest in understanding our world through data and simulations. 
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,latex,html,git)](https://skillicons.dev)
 
 <!--
 **rbnmj/rbnmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
