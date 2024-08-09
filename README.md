@@ -1,5 +1,3 @@
-### Assembling the world with models
-
 Hey,
 I'm Ruben, an ecological modeller with a diverse interest in understanding our world through data and simulations. 
 
